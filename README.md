@@ -25,7 +25,7 @@ Your input is valuable! If you have any suggestions or feedback regarding the co
 - `/competitions`: Documents my journey and learnings from participating in recommendation system competitions.
 
 ## License
-This repository is open-source and available under the [MIT License](LICENSE). Feel free to use the content for personal or educational purposes.
+Feel free to use the content for personal or educational purposes.
 
 
 Thank you for visiting my repository, and I hope you find the content useful in your own exploration of recommendation systems!
